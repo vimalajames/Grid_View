@@ -17,7 +17,7 @@ namespace Grid_View
         DataSet ds = new DataSet();
         protected void Page_Load(object sender, EventArgs e)
         {
-
+Response.Write("VimalaKarolin");
         }
 
         protected void CheckBox1_CheckedChanged(object sender, EventArgs e)
