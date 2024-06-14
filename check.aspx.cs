@@ -18,6 +18,8 @@ namespace Grid_View
         protected void Page_Load(object sender, EventArgs e)
         {
 Response.Write("VimalaKarolin");
+Response.Write("VimalaKarolin");
+
         }
 
         protected void CheckBox1_CheckedChanged(object sender, EventArgs e)
